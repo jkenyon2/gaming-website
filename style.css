@@ -67,7 +67,7 @@
 
 body {
     background-image: url("https://minecraft.net/static/pages/img/index-hero-og.088fb7996b03.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     width: 100%;
 }
 
