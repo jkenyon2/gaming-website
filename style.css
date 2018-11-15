@@ -68,7 +68,7 @@
 body {
     background-image: url("https://orig00.deviantart.net/f4dc/f/2018/318/c/3/background_by_anomallie-dcs0lmh.png");
     background-repeat: repeat;
-    width: 50%;
+    background-size: auto;
 }
 
 .paragraph {
