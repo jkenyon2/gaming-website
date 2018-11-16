@@ -10,7 +10,7 @@
     font-weight: 100;
     color: white;
     background-color: rgb(85, 71, 71);
-    border-radius: 5px;
+    border-radius: 2px;
     margin: 0 auto;
     float: center;
 }
@@ -24,7 +24,7 @@
     font-size: 15px;
     color: green;
     background-color: rgb(85, 71, 71);
-    border-radius: 5px;
+    border-radius: 2px;
     margin: 0 auto;
     float: center;
     
@@ -38,7 +38,7 @@
     font-family: Georgia, serif;
     font-size: 15px;
     font-weight: 100;
-    border-radius: 5px;
+    border-radius: 2px;
     
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
