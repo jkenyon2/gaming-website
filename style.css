@@ -1,7 +1,7 @@
 .topnavtable {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    padding: 15px 15px;
+    padding: 15px 20px;
     width: 200px;
     height: 80px;
     border: 3px;
@@ -16,7 +16,7 @@
 }
 .topnavtable:hover {
     
-    padding: 15px 15px;
+    padding: 15px 20px;
     width: 200px;
     height: 80px;
     border: 3px;
@@ -31,7 +31,7 @@
 }
 
 .homebutton {
-    padding: 15px 15px;
+    padding: 15px 20px;
     width: 150px;
     height: 80px;
     border: 3px;
